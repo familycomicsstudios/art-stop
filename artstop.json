@@ -1,7 +1,14 @@
 {"52.13,5.29":
-  {
-    "costume":"https://familycomicsstudios.github.io/art-stop/art/destijl14.svg",
-    "name":"De Stijl #14",
-    "artist":"Themadpunter"
-  }
+  [
+    {
+      "costume":"https://familycomicsstudios.github.io/art-stop/art/destijl14.svg",
+      "name":"De Stijl #14",
+      "artist":"Themadpunter"
+    },
+    {
+      "costume":"https://familycomicsstudios.github.io/art-stop/art/destijl18.svg",
+      "name":"De Stijl #18",
+      "artist":"Themadpunter"
+    }
+  ]
 }
